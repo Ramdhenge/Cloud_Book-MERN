@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.icon{
+  width: 20px;
+  cursor: pointer;
+}
+
+.icon-edit{
+  margin: 2% 2%;
+  width: 13px;
+  position: absolute;
+  right: 0;
+}
+
+.log-sign{
+  /* border: 1px solid red; */
+  margin-right: 6vw;
+  font-size: 2.3vh;
+}
+
+.log-sign .btns{
+  margin: 0% 5%;
+  padding: 7% 15%;
+  /* border: 1px solid red; */
+  border-radius: .9vh;
+  background: rgb(75, 75, 253);
+  color: white;
+  text-decoration: none;
+}
